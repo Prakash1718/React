@@ -4,30 +4,30 @@ import {Card,Button,Row, Container} from 'react-bootstrap'
 const foods=[
     {
         id:1,
-        name:'Idli',
+        name:'Dosa',
         price:35,
-        desc:'Idli is a savoury rice dish made from fermented lentils. It is a staple food of South Indian cuisine.',
+        desc:'Dosa is a savoury rice dish made from fermented lentils.,
         img:'https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/idli.jpg'
     },
     {
         id:2,
-        name:'Dosa',
+        name:'Idli',
         price:45,
-        desc:'Dosa is a savoury rice dish made from fermented lentils. It is a staple food of South Indian cuisine.',
+        desc:'Idli is a savoury rice dish made from fermented lentils.,
         img:'https://www.cookwithmanali.com/wp-content/uploads/2020/05/Masala-Dosa-500x500.jpg'
     },
     {
         id:3,
         name:'Puri',
         price:55,
-        desc:'Puri is a savoury rice dish made wheat. It is a staple food of South Indian cuisine.',
+        desc:'Puri is a savoury rice dish made wheat.,
         img:'https://cdn.cdnparenting.com/articles/2020/02/26144721/PURI-BHAJI-RECIPE.webp'
     },
     {
         id:4,
-        name:'Paratha',
+        name:'Parotta',
         price:65,
-        desc:'Paratha is food of South Indian cuisine.',
+        desc:'Parotta is food of South Indian cuisine.',
         img:'https://vegrecipebook.com/wp-content/uploads/2018/06/21-1200x675.jpg'
     },
  
