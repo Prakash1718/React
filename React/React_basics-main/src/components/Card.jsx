@@ -14,7 +14,7 @@ const foods=[
         name:'Idli',
         price:45,
         desc:'Idli is a savoury rice dish made from fermented lentils.,
-        img:'https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/idli.jpg'
+        img:'https://as1.ftcdn.net/v2/jpg/03/62/02/26/1000_F_362022640_fZ6UM0JycJlFDdBiR1pYlNddKfdGvYwR.jpg'
     },
     {
         id:3,
