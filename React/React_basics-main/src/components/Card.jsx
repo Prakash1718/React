@@ -7,14 +7,14 @@ const foods=[
         name:'Dosa',
         price:35,
         desc:'Dosa is a savoury rice dish made from fermented lentils.,
-        img:'https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/idli.jpg'
+        img:'https://www.cookwithmanali.com/wp-content/uploads/2020/05/Masala-Dosa-500x500.jpg'
     },
     {
         id:2,
         name:'Idli',
         price:45,
         desc:'Idli is a savoury rice dish made from fermented lentils.,
-        img:'https://www.cookwithmanali.com/wp-content/uploads/2020/05/Masala-Dosa-500x500.jpg'
+        img:'https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/idli.jpg'
     },
     {
         id:3,
